@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=200&section=header&text=erilayne%20santos&fontSize=60&fontColor=ffffff)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=200&section=header&text=Erilayne%20santos&fontSize=60&fontColor=ffffff)
 
 </div>
 
