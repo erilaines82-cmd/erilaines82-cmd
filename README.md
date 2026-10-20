@@ -1,9 +1,10 @@
 <div align="center">
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=200&section=header&text=Erilaynesantso&fontSize=60&fontColor=ffffff)
+
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=200&section=header&text=erilayne%20santos&fontSize=60&fontColor=ffffff)
 
 </div>
 
-<h1 align="center">🖤 🎀 Hi, I'm erilaine! 🎀 🖤</h1>
+<h1 align="center">🖤 🎀 Hi, I'm Erilayne! 🎀 🖤</h1>
 
 <h3 align="center">୨ৎ welcome to my little corner of code ୨ৎ</h3>
 
@@ -21,7 +22,7 @@
 
 <h2 align="center">🐰 🖤 About Me 🎀 💜</h2>
 
-🌷 Oi! Eu sou a **Erilaine santos** ♡
+🌷 Oi! Eu sou a **erilayne santos** ♡
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 💻 Estou aprendendo HTML, CSS, JavaScript e Git
@@ -46,3 +47,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=ff4d8d"/>
 </p>
+
