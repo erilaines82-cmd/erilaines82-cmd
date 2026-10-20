@@ -1,6 +1,5 @@
 <div align="center">
-
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=200&section=header&text=SEU%20NOME&fontSize=60&fontColor=ffffff)
+erilayne santos)
 
 </div>
 
